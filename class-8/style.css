@@ -1,0 +1,97 @@
+/*
+Basic Information:
+--------------------
+
+Project Name   	:	NGH school Template
+Author       	: 	NGH school
+Our Site 		: 	https://youthenlight.com
+Description 	: 	This is html5 School template
+Developed By 	: 	Mahbubul Haq
+Phone           :   01515672069
+
+
+-----------------------------------------------------------------------------------*/
+/*================== 1. Start Template Common CSS ===============*/
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    color: #9c9c9c;
+}
+.service-bg-1{
+	background-image:url(img/photo-1473042904451-00171c69419d.jpg);
+	
+}
+.service-bg-2{
+	background-image:url(img/photo-1476820865390-c52aeebb9891.jpg);
+}
+.service-bg-3{
+	background-image:url(img/photo-1483750356451-828d7d2cec30.jpg);
+}
+.service-bg-4{
+	background-image:url(img/videobg.jpg);
+}
+.section-padding {
+	padding: 80px 0;
+}
+.section-tittle h2 {
+	font-size: 30px;
+	font-size: 25px;
+	color: #333;
+}
+.section-tittle{
+	margin-bottom: 50px;
+}
+.gry-bg{
+	background-color: #fafafa;
+}
+.single-service-item {
+	background: #fff;
+	transition: 2s;
+}
+.single-service-item:hover{
+	box-shadow: 0 0px 21px #eaf7ef;
+}
+.service-bg{
+	background-color: #ddd;
+	background-position: center;
+	height: 225px;
+	background-size: cover;
+}
+.service-content {
+	padding: 20px;
+}
+.service-content h3{
+	color: #333;
+}
+.service-more-btn {
+	display: inline-block;
+	color:#399c74;
+	background:#fafafa; 
+	padding: 10px 0px;
+	border-radius: 50px;
+	margin-top: 5px;
+	transition: 0.3s;
+}
+.service-more-btn:hover{
+	display: inline-block;
+	color: #fafafa;
+	background: #399c74;
+	padding: 10px 20px;
+	border-radius: 50px;
+	margin-top: 5px;
+	font-weight: 700;
+	text-decoration: none;
+} 
+.fa.fa-long-arrow-right {
+	padding-left: 10px;
+}
+/*========================   Nav manu ==================*/
+
+
+
+
+
+
+
